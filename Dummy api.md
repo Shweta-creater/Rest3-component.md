@@ -31,9 +31,9 @@ In other words, a set of commands used by an individual program to communicate w
           Create a new entity or update an existing one.
   
   ## DELETE-
-          Removes all current representations of the target resource given by a URI
+          Removes all current representations of the target resource given by a URI.
              
-  
+   **REST**  
   
   
   
