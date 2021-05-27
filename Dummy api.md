@@ -1,5 +1,3 @@
-Create a new entity or update an existing one.    A POST request is used to create a new entity. It can also be used to send data to the server, for example, customer information, file upload, etc. using HTML forms.
-
 
 # Rest API Testing
 
