@@ -23,7 +23,7 @@ In other words, a set of commands used by an individual program to communicate w
 
   <em>There are mainly 4 methods involve in API Testing like GET, POST, Delete, and PUT.</em> 
   
-  ## GET-
+  ## GET- The GET method is used to extract information from the given server using a given URI. While using GET request, it should               only extract data and should have no other effect on the data.*
 
   
      *
