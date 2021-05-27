@@ -1,7 +1,7 @@
 
 ***Rest API Testing***
 
-*REST API Testing is open-source web automation testing technique that is used for testing RESTful APIs for web applications. 
+*REST API Testing is open-source web automation testing technique that is used for testing RESTful APIs for web applications.* 
 
 *The purpose of rest api testing is to record the response of rest api by sending various HTTP/S requests to check if rest api is 
 
@@ -24,10 +24,4 @@ In other words, a set of commands used by an individual program to communicate w
   <em>There are mainly 4 methods involve in API Testing like GET, POST, Delete, and PUT.</em> 
 
   
-     GET-  <em>The GET method is used to extract information from the given server using a given URI. While using GET request, it                     shoud only extract data and should have no other effect on the data.</em>
-
-     *POST*- <em>A POST request is used to create a new entity. It can also be used to send data to the server, for example, customer                  information,  file upload, etc. using HTML forms.</em>
-
-      *PUT*- <em>Create a new entity or update an existing one.</em>
-
-     *DELETE*- <em>Removes all current representations of the target resource given by a URI.</em>
+     *
