@@ -43,6 +43,11 @@ From Camel 2.18 onwards the rest component can also be used as a client (produce
   **URI format** 
 
 rest://method:path[:uriTemplate]?[options]
+  
+  **Supported rest components**
+  
+  The following components support rest consumer (Rest DSL):
+  
 
 
   
