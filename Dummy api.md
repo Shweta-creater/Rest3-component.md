@@ -2,3 +2,7 @@
 # Rest API Testing
 
 REST API Testing is open-source web automation testing technique that is used for testing RESTful APIs for web applications. The purpose of rest api testing is to record the response of rest api by sending various HTTP/S requests to check if rest api is working fine or not. Rest api testing is done by GET, POST, PUT and DELETE methods. 
+Rest stands for Representational State Transfer. It is an architectural style and an approach for communication used in the development of Web Services. REST has become a logical choice for building APIs. It enables users to connect and interact with cloud services efficiently.
+
+An API or Application Programming Interface is a set of programming instructions for accessing a web-based software application.
+In other words, a set of commands used by an individual program to communicate with one another directly and use each other's functions to get information.
