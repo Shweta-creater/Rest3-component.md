@@ -6,3 +6,9 @@ Rest stands for Representational State Transfer. It is an architectural style an
 
 An API or Application Programming Interface is a set of programming instructions for accessing a web-based software application.
 In other words, a set of commands used by an individual program to communicate with one another directly and use each other's functions to get information.
+
+For example, a Google website can have API for various functions like search, translations, calendars, etc.
+
+In general API's are like below, they have server name, paths.., etc
+
+http://<server name>/v1/export/Publisher/Standard_Publisher_Report?format=csv
