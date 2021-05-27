@@ -32,8 +32,14 @@ In other words, a set of commands used by an individual program to communicate w
   
   ## DELETE-
           Removes all current representations of the target resource given by a URI.
+  
              
-   **REST COMPONENT** 
+   **REST COMPONENT**  
+
+The rest component allows to define REST endpoints (consumer) using the Rest DSL and plugin to other Camel components as the REST transport.
+
+From Camel 2.18 onwards the rest component can also be used as a client (producer) to call REST services.
+
   
   
   
