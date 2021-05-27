@@ -23,7 +23,7 @@ In other words, a set of commands used by an individual program to communicate w
 
   <em>There are mainly 4 methods involve in API Testing like GET, POST, Delete, and PUT.</em> 
   
-  # GET-
+  ## GET-
 
   
      *
