@@ -42,7 +42,7 @@ From Camel 2.18 onwards the rest component can also be used as a client (produce
 
   **URI format** 
 
-rest://method:path[:uriTemplate]?[options]
+The following components support rest producer:rest://method:path[:uriTemplate]?[options]
   
   **Supported rest components**
   
@@ -63,6 +63,20 @@ rest://method:path[:uriTemplate]?[options]
    7-camel-spark-rest
 
    8-camel-undertow
+
+The following components support rest producer:
+
+    1-camel-http
+
+    2-camel-http4
+
+    3-camel-netty4-http
+
+    4-camel-jetty
+
+    5-camel-restlet
+
+    6-camel-undertow
 
 
   
