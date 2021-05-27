@@ -1,3 +1,5 @@
+    A POST request is used to create a new entity. It can also be used to send data to the server, for example, customer information, file upload, etc. using HTML forms.
+
 
 # Rest API Testing
 
@@ -13,6 +15,8 @@ In general API's are like below, they have server name, paths.., etc
 
 http://<server name>/v1/export/Publisher/Standard_Publisher_Report?format=csv
   
-**GET**- GET method is used to extract information from the given server using a given URI. While using GET request, it should only extract data and should have no other effect on the data
+**GET**- GET method is used to extract information from the given server using a given URI. While using GET request, it should only              extract data and should have no other effect on the data
   
-**POST**-
+**POST**-  A POST request is used to create a new entity. It can also be used to send data to the server, for example, customer                    information, file upload, etc. using HTML forms.
+
+**PUT**-
