@@ -33,7 +33,7 @@ In other words, a set of commands used by an individual program to communicate w
   ## DELETE-
           Removes all current representations of the target resource given by a URI.
              
-   **REST**  
+   **REST COMPONENT** 
   
   
   
