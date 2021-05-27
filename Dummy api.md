@@ -1,4 +1,4 @@
-***REST API Testing***
+##REST API Testing
 
 
 *REST API Testing is open-source web automation testing technique that is used for testing RESTful APIs for web applications.* 
