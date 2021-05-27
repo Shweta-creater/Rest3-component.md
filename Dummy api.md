@@ -48,6 +48,24 @@ rest://method:path[:uriTemplate]?[options]
   
   The following components support rest consumer (Rest DSL):
   
+   1- camel-coap
+
+   2- camel-netty-http
+
+   3- camel-netty4-http
+
+   4- camel-jetty
+
+   5- camel-restlet
+
+   6-camel-servlet
+
+   7-camel-spark-rest
+
+   8-camel-undertow
+
+
+  
 
 
   
