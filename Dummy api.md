@@ -40,8 +40,11 @@ The rest component allows to define REST endpoints (consumer) using the Rest DSL
 
 From Camel 2.18 onwards the rest component can also be used as a client (producer) to call REST services.
 
-  
-  
+  **URI format** 
+
+rest://method:path[:uriTemplate]?[options]
+
+
   
   
   
