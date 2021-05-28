@@ -95,7 +95,7 @@ API testing requires an application to interact with API. To test an API, you re
   
   For POST MEHOD - curl -d '{"name": "ram", "age":"27"}' -H "content-type:application/json" -X POST http://localhost:8010    /api/getDBData  
   
-  ### issue I have faced - 
+  ### Issue I have faced - 
   when i am sending data from post method, the data is not being sent through the curl command.  
    
   
