@@ -103,6 +103,10 @@ API testing requires an application to interact with API. To test an API, you re
   
   ###  Command by which we hit our API
   
+  For GET METHOD- curl -X GET http://localhost:8020/api/getdbdata
+  
+  For POST MEHOD - curl -d '{"name": "ram", "age":"27"}' -H "content-type:application/json" -X POST http://localhost:8010    /api/getDBData  
+  
   
   
   
