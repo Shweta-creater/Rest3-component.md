@@ -84,6 +84,10 @@ API testing requires an application to interact with API. To test an API, you re
   
 ## Code for Testing rest api  
   ![reast](https://user-images.githubusercontent.com/82276807/119935088-890ffc00-bfa4-11eb-9818-0a681b13a4e7.png)
+  
+  In above code I have used get method in first route get method is used to extract information from the given server using a given URI. While using GET request, It should only extract data and should have no other effect on the data. and in second route I have used post method.A POST request is used to create a new entity. It can also be used to send data to the server, for example customer information, file upload, etc. using HTML forms.
+  
+
 
   ## Dependency that we have used
   
