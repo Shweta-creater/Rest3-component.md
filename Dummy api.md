@@ -102,7 +102,7 @@ API testing requires an application to interact with API. To test an API, you re
     
   
   ###  Issue we have faced
-  When I am sending data from post method, the data is not being sent through the curl command.
+  When I am sending data from post method, the data is not being sent through the curl command.and the restlet operation failing at      that time.
   
   ![Issue](https://user-images.githubusercontent.com/82276807/119955218-7950e180-bfbd-11eb-885a-69d32cb8d56d.png)
 
