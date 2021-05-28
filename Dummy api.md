@@ -95,10 +95,9 @@ API testing requires an application to interact with API. To test an API, you re
 
   
 ## Code for Testing rest api  
+  ![([reast](https://user-images.githubusercontent.com/82276807/119935088-890ffc00-bfa4-11eb-9818-0a681b13a4e7.png)
+  Format: ![Alt Text](url)
   
-  x-special/nautilus-clipboard
-copy
-file:///home/shweta/Pictures/reast.png
 
   
   
