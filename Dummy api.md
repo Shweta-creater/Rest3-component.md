@@ -79,17 +79,22 @@ The following components support rest producer:
     6-camel-undertow
 
 
-  # How to Test REST API
+  ## How to Test REST API
 
 API testing requires an application to interact with API. To test an API, you require two things, 
   
    1- Testing Tool/Framework to drive the API
   
    2- Writing down your own code to test the API
+  
+ Rest API can be tested with tools like:
+
+    Advanced Rest Client
+    Postman-Rest Client
+    Curl in Linux
 
   
-  
-  
+## Code for Testing rest api  
   
   
   
