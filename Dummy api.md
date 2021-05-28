@@ -96,7 +96,10 @@ API testing requires an application to interact with API. To test an API, you re
   
 ## Code for Testing rest api  
   
-  
+  x-special/nautilus-clipboard
+copy
+file:///home/shweta/Pictures/reast.png
+
   
   
   
