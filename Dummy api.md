@@ -99,7 +99,7 @@ API testing requires an application to interact with API. To test an API, you re
 
   ## Dependency
   
-  ![](file:///home/shweta/Pictures/dependency.png)
+  ![dependency](https://user-images.githubusercontent.com/82276807/119937346-3cc6bb00-bfa8-11eb-815a-ce0ea42e0239.png)
   
   
   
