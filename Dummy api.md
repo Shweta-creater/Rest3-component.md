@@ -1,4 +1,4 @@
-## REST API Testing
+# REST API Testing
 
 *Rest stands for Representational State Transfer. It is an architectural style and an approach for communication used in the* 
 
@@ -95,8 +95,7 @@ API testing requires an application to interact with API. To test an API, you re
   
   For POST MEHOD - curl -d '{"name": "ram", "age":"27"}' -H "content-type:application/json" -X POST http://localhost:8010    /api/getDBData  
   
-  ### Issue I have faced - 
-  when i am sending data from post method, the data is not being sent through the curl command.  
+    
    
   
   
