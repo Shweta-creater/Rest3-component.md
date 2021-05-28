@@ -116,9 +116,10 @@ API testing requires an application to interact with API. To test an API, you re
   
   ![output](https://user-images.githubusercontent.com/82276807/119963539-d6509580-bfc5-11eb-8f95-b435dd1d996b.png)
 
+  ### Ouput when we extract data from get method using dummy API via curl command.
   
-  
-  
+  ![output](https://user-images.githubusercontent.com/82276807/119963539-d6509580-bfc5-11eb-8f95-b435dd1d996b.png)
+
   
   
   
