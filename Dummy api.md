@@ -109,11 +109,13 @@ API testing requires an application to interact with API. To test an API, you re
   ### Reference of sites I have used
    
   https://www.guru99.com/testing-rest-api-manually.html
+  
   https://camel.apache.org/components/2.x/restlet-component.html
   
   ### Output when we send data from post method using dummy API via curl command.
   
-  
+  ![output](https://user-images.githubusercontent.com/82276807/119963539-d6509580-bfc5-11eb-8f95-b435dd1d996b.png)
+
   
   
   
