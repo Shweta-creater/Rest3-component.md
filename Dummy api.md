@@ -101,15 +101,17 @@ API testing requires an application to interact with API. To test an API, you re
   
     
   
-  ###  Issue we have faced
+  ###  Issue I have faced
   When I was sending data from post method via the curl command.the data was not being sent and the restlet operation failing at       that time.
   
   ![Issue](https://user-images.githubusercontent.com/82276807/119955218-7950e180-bfbd-11eb-885a-69d32cb8d56d.png)
 
+  ### Reference of sites I have used
    
+  https://www.guru99.com/testing-rest-api-manually.html
+  https://camel.apache.org/components/2.x/restlet-component.html
   
-  
-  
+  ### Output when we send data from post method using dummy API via curl command.
   
   
   
