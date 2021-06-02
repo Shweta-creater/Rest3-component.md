@@ -4,7 +4,7 @@
 
 
 
-# REST API Testing
+# 𝐑𝐄𝐒𝐓 𝐀𝐏𝐈 𝐓𝐞𝐬𝐭𝐢𝐧𝐠
 
 *Rest stands for Representational State Transfer. It is an architectural style and an approach for communication used in the* 
 
@@ -21,16 +21,16 @@ In other words, a set of commands used by an individual program to communicate w
   
   <em>There are mainly 4 methods involve in API Testing like GET, POST, Delete, and PUT.</em> 
   
-  ### GET- 
+  ###  🅶🅴🆃
          GET method is used to extract information from the given server using a given URI. While using GET request, it should only extract data and should have no other effect on the data. 
 
-  ### POST-
+  ### 🅿🅾🆂🆃
            A POST request is used to create a new entity. It can also be used to send data to the server, for example customer information, file upload, etc. using HTML forms.
   
-  ### PUT-
+  ### 🅿🆄🆃
           Create a new entity or update an existing one.
   
-  ### DELETE-
+  ### 🅳🅴🅻🅴🆃🅴
           Removes all current representations of the target resource given by a URI.
   
   <br>
@@ -83,7 +83,7 @@ In other words, a set of commands used by an individual program to communicate w
   
   <br>
   <details close="close"> 
-  <summary><b><𝐎𝐮𝐭𝐩𝐮𝐭 𝐰𝐡𝐞𝐧 𝐰𝐞 𝐬𝐞𝐧𝐝 𝐝𝐚𝐭𝐚 𝐟𝐫𝐨𝐦 𝐩𝐨𝐬𝐭 𝐦𝐞𝐭𝐡𝐨𝐝 𝐮𝐬𝐢𝐧𝐠 𝐝𝐮𝐦𝐦𝐲 𝐀𝐏𝐈 𝐯𝐢𝐚 𝐜𝐮𝐫𝐥 𝐜𝐨𝐦𝐦𝐚𝐧𝐝/b></summary> 
+  <summary><b><𝐎𝐮𝐭𝐩𝐮𝐭 𝐰𝐡𝐞𝐧 𝐰𝐞 𝐬𝐞𝐧𝐝 𝐝𝐚𝐭𝐚 𝐟𝐫𝐨𝐦 𝐩𝐨𝐬𝐭 𝐦𝐞𝐭𝐡𝐨𝐝 𝐮𝐬𝐢𝐧𝐠 𝐝𝐮𝐦𝐦𝐲 𝐀𝐏𝐈 𝐯𝐢𝐚 𝐜𝐮𝐫𝐥 𝐜𝐨𝐦𝐦𝐚𝐧𝐝</b></summary> 
   
   
   <p align ="center"><img src="https://user-images.githubusercontent.com/82276807/119963539-d6509580-bfc5-11eb-8f95-b435dd1d996b.png"></p>
