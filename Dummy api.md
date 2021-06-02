@@ -59,7 +59,7 @@ In other words, a set of commands used by an individual program to communicate w
   
     <details close="close"> 
   <summary><b>Issue I have faced</b></summary>
- <p align="center"><img src="https://user-images.githubusercontent.com/82276807/119955218-7950e180-bfbd-11eb-885a-69d32cb8d56d.png"></p>   
+ <p align="center"><img src="https://user-images.githubusercontent.com/82276807/120450508-2062be00-c3ae-11eb-9990-daf4e68c3c63.png"></p>   
   </details>
   
  1- When I was sending data from post method via the curl command.the data was not being sent and the restlet operation failing at       that time.
