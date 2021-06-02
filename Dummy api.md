@@ -28,55 +28,10 @@ In other words, a set of commands used by an individual program to communicate w
           Removes all current representations of the target resource given by a URI.
   
              
-   **REST COMPONENT**  
+   
 
-The rest component allows to define REST endpoints (consumer) using the Rest DSL and plugin to other Camel components as the REST transport.
-
-From Camel 2.18 onwards the rest component can also be used as a client (producer) to call REST services.
-
-  **URI format** 
-
-The following components support rest producer:rest://method:path[:uriTemplate]?[options]
   
-  **Supported rest components**
-  
-  The following components support rest consumer (Rest DSL):
-  
-   1- camel-coap
-
-   2- camel-netty-http
-
-   3- camel-netty4-http
-
-   4- camel-jetty
-
- 
-
-The following components support rest producer:
-
-    1-camel-http
-
-    2-camel-http4
-
-    3-camel-netty4-http
-
-    4-camel-jetty
-
-    5-camel-restlet
-
-    6-camel-undertow
-
-
-  ## How to Test REST API
-
-API testing requires an application to interact with API. To test an API, you require two things, 
-  
-   1- Testing Tool/Framework to drive the API
-  
-   2- Writing down your own code to test the API
-  
- Rest API can be tested with tools like:
-
+    
     Advanced Rest Client
     Postman-Rest Client
     Curl in Linux
