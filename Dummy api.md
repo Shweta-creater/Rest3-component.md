@@ -40,12 +40,12 @@ In other words, a set of commands used by an individual program to communicate w
   
  1- In above code I have used get method in first route get method is used to extract information from the given server using a given URI. While using GET request, It should only extract data and should have no other effect on the data. 
   
-  2-In second route I have used post method.A POST request is used to create a new entity. It can also be used to send data to the server, for example customer information, file upload, etc. using HTML forms.
+ 2-In second route I have used post method.A POST request is used to create a new entity. It can also be used to send data to the server, for example customer information, file upload, etc. using HTML forms.
   
 
 
   <details close="close"> 
-  <summary><b>Log Pic</b></summary>   
+  <summary><b>Dependeny which I have used</b></summary>   
   
  <p align ="center"><img src= "https://user-images.githubusercontent.com/82276807/119937346-3cc6bb00-bfa8-11eb-815a-ce0ea42e0239.png"></p>
   </details>
@@ -56,12 +56,13 @@ In other words, a set of commands used by an individual program to communicate w
   
   For POST MEHOD - curl -d '{"name": "ram", "age":"27"}' -H "content-type:application/json" -X POST http://localhost:8010    /api/getDBData  
   
-    
   
-  ###  Issue I have faced
-  When I was sending data from post method via the curl command.the data was not being sent and the restlet operation failing at       that time.
+    <details close="close"> 
+  <summary><b>Issue I have faced</b></summary>
+ <p align ="center"><img src= "https://user-images.githubusercontent.com/82276807/119955218-7950e180-bfbd-11eb-885a-69d32cb8d56d.png"></p>     
   
-  ![Issue](https://user-images.githubusercontent.com/82276807/119955218-7950e180-bfbd-11eb-885a-69d32cb8d56d.png)
+ 1- When I was sending data from post method via the curl command.the data was not being sent and the restlet operation failing at       that time.
+ 
 
   ### Reference of sites I have used
    
