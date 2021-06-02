@@ -66,11 +66,13 @@ In other words, a set of commands used by an individual program to communicate w
  1- When I was sending data from post method via the curl command.the data was not being sent and the restlet operation failing at       that time.
  
 
-  ### Reference of sites I have used
-   
+  <details>
+    <summary> Reference of sites I have used </summary>
   https://www.guru99.com/testing-rest-api-manually.html
   
   https://camel.apache.org/components/2.x/restlet-component.html
+     
+     </details>
   
   ### Output when we send data from post method using dummy API via curl command.
   
