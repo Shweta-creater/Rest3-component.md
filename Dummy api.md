@@ -1,6 +1,6 @@
 <img src="https://ezeiatech.com/wp-content/uploads/2019/05/apache-camel-interview-questions.jpg">
 
-<h1 align="center">Camel Restlet component <h1>
+<h1 align="center"> 𝐂𝐚𝐦𝐞𝐥 𝐑𝐞𝐬𝐭𝐥𝐞𝐭 𝐜𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭<h1>
 
 
 
@@ -66,7 +66,7 @@ In other words, a set of commands used by an individual program to communicate w
   
     
   <details close="close"> 
-  <summary><b>Issue I have faced</b></summary>  
+  <summary><b>𝐈𝐬𝐬𝐮𝐞 𝐈 𝐡𝐚𝐯𝐞 𝐟𝐚𝐜𝐞𝐝</b></summary>  
     
  <p align ="center"><img src="https://user-images.githubusercontent.com/82276807/120450508-2062be00-c3ae-11eb-9990-daf4e68c3c63.png"></p>   
   </details>
@@ -75,7 +75,7 @@ In other words, a set of commands used by an individual program to communicate w
  
 
   <details>
-    <summary><b> Reference of sites I have used </b></summary>
+    <summary><b>𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐨𝐟 𝐬𝐢𝐭𝐞𝐬 𝐈 𝐡𝐚𝐯𝐞 𝐮𝐬𝐞𝐝 </b></summary>
   https://www.guru99.com/testing-rest-api-manually.html
   
   https://camel.apache.org/components/2.x/restlet-component.html
@@ -83,7 +83,7 @@ In other words, a set of commands used by an individual program to communicate w
   
   <br>
   <details close="close"> 
-  <summary><b>Output when we send data from post method using dummy API via curl command</b></summary> 
+  <summary><b><𝐎𝐮𝐭𝐩𝐮𝐭 𝐰𝐡𝐞𝐧 𝐰𝐞 𝐬𝐞𝐧𝐝 𝐝𝐚𝐭𝐚 𝐟𝐫𝐨𝐦 𝐩𝐨𝐬𝐭 𝐦𝐞𝐭𝐡𝐨𝐝 𝐮𝐬𝐢𝐧𝐠 𝐝𝐮𝐦𝐦𝐲 𝐀𝐏𝐈 𝐯𝐢𝐚 𝐜𝐮𝐫𝐥 𝐜𝐨𝐦𝐦𝐚𝐧𝐝/b></summary> 
   
   
   <p align ="center"><img src="https://user-images.githubusercontent.com/82276807/119963539-d6509580-bfc5-11eb-8f95-b435dd1d996b.png"></p>
@@ -92,7 +92,7 @@ In other words, a set of commands used by an individual program to communicate w
  
   <br>
   <details close="close"> 
-  <summary><b>Output when we extract data from get method using dummy API via curl command</b></summary> 
+  <summary><b>𝐎𝐮𝐭𝐩𝐮𝐭 𝐰𝐡𝐞𝐧 𝐰𝐞 𝐞𝐱𝐭𝐫𝐚𝐜𝐭 𝐝𝐚𝐭𝐚 𝐟𝐫𝐨𝐦 𝐠𝐞𝐭 𝐦𝐞𝐭𝐡𝐨𝐝 𝐮𝐬𝐢𝐧𝐠 𝐝𝐮𝐦𝐦𝐲 𝐀𝐏𝐈 𝐯𝐢𝐚 𝐜𝐮𝐫𝐥 𝐜𝐨𝐦𝐦𝐚𝐧𝐝</b></summary> 
   
   <p align ="center"><img src="https://user-images.githubusercontent.com/82276807/119965082-8246b080-bfc7-11eb-9415-c9976c000fc8.png"></p>
       </details>
