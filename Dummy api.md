@@ -39,13 +39,14 @@ In other words, a set of commands used by an individual program to communicate w
  <p align ="center"><img src="https://user-images.githubusercontent.com/82276807/119935088-890ffc00-bfa4-11eb-9818-0a681b13a4e7.png"></p>
   </details>
   
- 1- In above code I have used get method in first route get method is used to extract information from the given server using a given URI. While using GET request, It should only extract data and should have no other effect on the data. 
+ 1️⃣- In above code I have used get method in first route get method is used to extract information from the given server using a given URI. While using GET request, It should only extract data and should have no other effect on the data. 
   
- 2-In second route I have used post method.A POST request is used to create a new entity. It can also be used to send data to the server, for example customer information, file upload, etc. using HTML forms.
+ 2️⃣-In second route I have used post method.A POST request is used to create a new entity. It can also be used to send data to the server, for example customer information, file upload, etc. using HTML forms.
   
-  3-We can use multiple route IDs in a CamelContext project.  But it should be noted that the name of each route ID should be different.
+  3️⃣-We can use multiple route IDs in a CamelContext project.But it should be noted that the name of each route ID should be different.
   
-  
+ 4️⃣: -<from uri="restlet:http://localhost:8020/api/getdbdata In this line we will use Restlet component and here we will give the path of our get API
+    
 
 
   <details close="close"> 
