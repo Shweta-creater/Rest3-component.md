@@ -50,13 +50,13 @@ In other words, a set of commands used by an individual program to communicate w
 
 
   <details close="close"> 
-  <summary><b>Dependeny which I have used</b></summary>   
+  <summary><b>𝐃𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐲 𝐰𝐡𝐢𝐜𝐡 𝐰𝐞 𝐡𝐚𝐯𝐞 𝐮𝐬𝐞𝐝</b></summary>   
   
  <p align ="center"><img src= "https://user-images.githubusercontent.com/82276807/119937346-3cc6bb00-bfa8-11eb-815a-ce0ea42e0239.png"></p>
   </details>
   
    <details>
-   <summary><b>Command by which we hit our API</b></summary>
+   <summary><b>𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐛𝐲 𝐰𝐡𝐢𝐜𝐡 𝐰𝐞 𝐡𝐢𝐭 𝐨𝐮𝐫 𝐀𝐏𝐈</b></summary>
   
   For GET METHOD- curl -X GET http://localhost:8020/api/getdbdata
   
@@ -66,7 +66,7 @@ In other words, a set of commands used by an individual program to communicate w
   
     
   <details close="close"> 
-  <summary><b>𝐈𝐬𝐬𝐮𝐞 𝐈 𝐡𝐚𝐯𝐞 𝐟𝐚𝐜𝐞𝐝</b></summary>  
+  <summary><b>𝐈𝐬𝐬𝐮𝐞 𝐰𝐞 𝐡𝐚𝐯𝐞 𝐟𝐚𝐜𝐞𝐝</b></summary>  
     
  <p align ="center"><img src="https://user-images.githubusercontent.com/82276807/120450508-2062be00-c3ae-11eb-9990-daf4e68c3c63.png"></p>   
   </details>
@@ -75,7 +75,7 @@ In other words, a set of commands used by an individual program to communicate w
  
 
   <details>
-    <summary><b>𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐨𝐟 𝐬𝐢𝐭𝐞𝐬 𝐈 𝐡𝐚𝐯𝐞 𝐮𝐬𝐞𝐝 </b></summary>
+    <summary><b>𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐨𝐟 𝐬𝐢𝐭𝐞𝐬 𝐰𝐞 𝐡𝐚𝐯𝐞 𝐮𝐬𝐞𝐝 </b></summary>
   https://www.guru99.com/testing-rest-api-manually.html
   
   https://camel.apache.org/components/2.x/restlet-component.html
