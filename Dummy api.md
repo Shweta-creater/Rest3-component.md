@@ -70,12 +70,13 @@ In other words, a set of commands used by an individual program to communicate w
   https://www.guru99.com/testing-rest-api-manually.html
   
   https://camel.apache.org/components/2.x/restlet-component.html
-     
      </details>
   
-  ### Output when we send data from post method using dummy API via curl command.
+  <details close="close"> 
+  <summary><b><Output when we send data from post method using dummy API via curl command/b></summary></b></summary
   
-  ![output](https://user-images.githubusercontent.com/82276807/119963539-d6509580-bfc5-11eb-8f95-b435dd1d996b.png)
+  <p align="center"><img src="https://user-images.githubusercontent.com/82276807/119963539-d6509580-bfc5-11eb-8f95-b435dd1d996b.png"></p>
+  </details>
 
   ### Ouput when we extract data from get method using dummy API via curl command.
   
