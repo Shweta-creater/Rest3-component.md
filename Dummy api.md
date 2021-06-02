@@ -27,10 +27,10 @@ In other words, a set of commands used by an individual program to communicate w
   ### 𝐏𝐎𝐒𝐓
            A POST request is used to create a new entity. It can also be used to send data to the server, for example customer information, file upload, etc. using HTML forms.
   
-  ###𝐏𝐔𝐓
+  ### 𝐏𝐔𝐓
           Create a new entity or update an existing one.
   
-  ###𝐃𝐄𝐋𝐄𝐓𝐄
+  ### 𝐃𝐄𝐋𝐄𝐓𝐄
           Removes all current representations of the target resource given by a URI.
   
   <br>
