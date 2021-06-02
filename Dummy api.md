@@ -32,9 +32,10 @@ In other words, a set of commands used by an individual program to communicate w
   ### DELETE-
           Removes all current representations of the target resource given by a URI.
   
-  
-  <details>
- <summary> (https://user-images.githubusercontent.com/82276807/119935088-890ffc00-bfa4-11eb-9818-0a681b13a4e7.png)</summary>
+  <br>
+  <details close="close"> 
+  <summary><b>Code Pic</b></summary>   
+ <p align ="center"><img src="https://user-images.githubusercontent.com/82276807/119935088-890ffc00-bfa4-11eb-9818-0a681b13a4e7.png"></p>
   </details>
   
  1- In above code I have used get method in first route get method is used to extract information from the given server using a given URI. While using GET request, It should only extract data and should have no other effect on the data. 
