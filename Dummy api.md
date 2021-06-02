@@ -59,6 +59,7 @@ In other words, a set of commands used by an individual program to communicate w
   
     <details close="close"> 
   <summary><b>Issue I have faced</b></summary>
+      
  <p align ="center"><img src="https://user-images.githubusercontent.com/82276807/120450508-2062be00-c3ae-11eb-9990-daf4e68c3c63.png"></p>   
   </details>
   
@@ -82,6 +83,7 @@ In other words, a set of commands used by an individual program to communicate w
   
  <details close="close"> 
     <summary><b><Ouput when we extract data from get method using dummy API via curl command</b></summary> 
+      
   <p align ="center"><img src="https://user-images.githubusercontent.com/82276807/119965082-8246b080-bfc7-11eb-9415-c9976c000fc8.png"></p>
       </details>
 
