@@ -76,7 +76,6 @@ In other words, a set of commands used by an individual program to communicate w
 
   <details>
     <summary><b>𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐨𝐟 𝐬𝐢𝐭𝐞𝐬 𝐰𝐞 𝐡𝐚𝐯𝐞 𝐮𝐬𝐞𝐝 </b></summary>
-  https://www.guru99.com/testing-rest-api-manually.html
   
   https://camel.apache.org/components/2.x/restlet-component.html
      </details>
