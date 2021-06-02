@@ -72,13 +72,14 @@ In other words, a set of commands used by an individual program to communicate w
   https://camel.apache.org/components/2.x/restlet-component.html
      </details>
   
-  <details> 
+   <details close="close"> 
   <summary><b><Output when we send data from post method using dummy API via curl command/b></summary></b></summary>
   
   <p align="center"><img src="https://user-images.githubusercontent.com/82276807/119963539-d6509580-bfc5-11eb-8f95-b435dd1d996b.png"></p>
   </details>
-
-  <details>
+  
+ <details close="close"> 
+  
     <summary><b><Ouput when we extract data from get method using dummy API via curl command</b></summary>
   
   <p align="center"><img src="https://user-images.githubusercontent.com/82276807/119965082-8246b080-bfc7-11eb-9415-c9976c000fc8.png"></p>
