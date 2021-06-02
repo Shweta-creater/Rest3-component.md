@@ -62,7 +62,7 @@ In other words, a set of commands used by an individual program to communicate w
 
 
   
-     <br>
+    
   <details close="close"> 
   <summary><b>Issue I have faced</b></summary>  
     
