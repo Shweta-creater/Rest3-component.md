@@ -55,12 +55,13 @@ In other words, a set of commands used by an individual program to communicate w
  <p align ="center"><img src= "https://user-images.githubusercontent.com/82276807/119937346-3cc6bb00-bfa8-11eb-815a-ce0ea42e0239.png"></p>
   </details>
   
-  ###  Command by which we hit our API
+   <details>
+   <summary><b>Command by which we hit our API</b></summary>
   
   For GET METHOD- curl -X GET http://localhost:8020/api/getdbdata
   
   For POST MEHOD - curl -d '{"name": "ram", "age":"27"}' -H "content-type:application/json" -X POST http://localhost:8010    /api/getDBData  
-
+   </details>
 
   
     
