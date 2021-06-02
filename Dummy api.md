@@ -43,6 +43,9 @@ In other words, a set of commands used by an individual program to communicate w
   
  2-In second route I have used post method.A POST request is used to create a new entity. It can also be used to send data to the server, for example customer information, file upload, etc. using HTML forms.
   
+  
+  
+  
 
 
   <details close="close"> 
@@ -59,8 +62,8 @@ In other words, a set of commands used by an individual program to communicate w
 
 
   
-     <details close="close">
-    
+     
+    <details>
        <summary><b>Issue I have faced</b></summary>
  <p align ="center"><img src="https://user-images.githubusercontent.com/82276807/120450508-2062be00-c3ae-11eb-9990-daf4e68c3c63.png"></p>   
   </details>
