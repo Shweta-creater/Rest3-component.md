@@ -83,7 +83,7 @@ In other words, a set of commands used by an individual program to communicate w
   
   <br>
   <details close="close"> 
-  <summary><b><𝐎𝐮𝐭𝐩𝐮𝐭 𝐰𝐡𝐞𝐧 𝐰𝐞 𝐬𝐞𝐧𝐝 𝐝𝐚𝐭𝐚 𝐟𝐫𝐨𝐦 𝐩𝐨𝐬𝐭 𝐦𝐞𝐭𝐡𝐨𝐝 𝐮𝐬𝐢𝐧𝐠 𝐝𝐮𝐦𝐦𝐲 𝐀𝐏𝐈 𝐯𝐢𝐚 𝐜𝐮𝐫𝐥 𝐜𝐨𝐦𝐦𝐚𝐧𝐝</b></summary> 
+  <summary><b>𝐎𝐮𝐭𝐩𝐮𝐭 𝐰𝐡𝐞𝐧 𝐰𝐞 𝐬𝐞𝐧𝐝 𝐝𝐚𝐭𝐚 𝐟𝐫𝐨𝐦 𝐩𝐨𝐬𝐭 𝐦𝐞𝐭𝐡𝐨𝐝 𝐮𝐬𝐢𝐧𝐠 𝐝𝐮𝐦𝐦𝐲 𝐀𝐏𝐈 𝐯𝐢𝐚 𝐜𝐮𝐫𝐥 𝐜𝐨𝐦𝐦𝐚𝐧𝐝</b></summary> 
   
   
   <p align ="center"><img src="https://user-images.githubusercontent.com/82276807/119963539-d6509580-bfc5-11eb-8f95-b435dd1d996b.png"></p>
