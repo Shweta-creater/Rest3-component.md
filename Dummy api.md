@@ -59,7 +59,7 @@ In other words, a set of commands used by an individual program to communicate w
   
   
     <details close="close"> 
-  <summary><b>Issue I have faced</b></summary>
+      <summary><b>Issue I have faced</b></summary>
       
  <p align ="center"><img src="https://user-images.githubusercontent.com/82276807/120450508-2062be00-c3ae-11eb-9990-daf4e68c3c63.png)"></p>   
   </details>
