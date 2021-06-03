@@ -51,7 +51,7 @@ In other words, a set of commands used by an individual program to communicate w
             
   6-   The SetBody EIP allows us to set the body of our exchange.
             
-  7-    The SetHeader EIP allows you to set and header on your exchange.      
+  7-    The SetHeader EIP allows you to set and header on our exchange.      
 
   <details close="close"> 
   <summary><b>𝐃𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐲 𝐰𝐡𝐢𝐜𝐡 𝐰𝐞 𝐡𝐚𝐯𝐞 𝐮𝐬𝐞𝐝</b></summary>   
