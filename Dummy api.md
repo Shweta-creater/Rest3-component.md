@@ -45,9 +45,13 @@ In other words, a set of commands used by an individual program to communicate w
   
   3️⃣-We can use multiple route IDs in a CamelContext project.But it should be noted that the name of each route ID should be different.
   
- 4️⃣: -<from uri="restlet:http://localhost:8020/api/getdbdata In this line we will use Restlet component and here we will give the path of our get API
-    
-
+ 4️⃣ -<from uri="restlet:http://localhost:8020/api/getdbdata In this line we will use Restlet component and here we will give the path of our get API along this path we hit the API via curl command 
+   
+  5-  <to uri=restlet:http://dummmy.restapiexample.com/api/v1/employee/1" In this line we will give the path of our dummy api.
+            
+  6-   The SetBody EIP allows us to set the body of our exchange.
+            
+  7-    The SetHeader EIP allows you to set and header on your exchange.      
 
   <details close="close"> 
   <summary><b>𝐃𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐲 𝐰𝐡𝐢𝐜𝐡 𝐰𝐞 𝐡𝐚𝐯𝐞 𝐮𝐬𝐞𝐝</b></summary>   
