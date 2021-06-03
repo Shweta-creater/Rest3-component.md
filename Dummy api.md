@@ -53,7 +53,7 @@ In other words, a set of commands used by an individual program to communicate w
   <summary><b>𝐃𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐲 𝐰𝐡𝐢𝐜𝐡 𝐰𝐞 𝐡𝐚𝐯𝐞 𝐮𝐬𝐞𝐝</b></summary>   
   
  <p align ="center"><img src= "https://user-images.githubusercontent.com/82276807/119937346-3cc6bb00-bfa8-11eb-815a-ce0ea42e0239.png"></p>
-  </details>
+When we send multiple requests at the same time through curl command then  </details>
   
    <details>
    <summary><b>𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐛𝐲 𝐰𝐡𝐢𝐜𝐡 𝐰𝐞 𝐡𝐢𝐭 𝐨𝐮𝐫 𝐀𝐏𝐈</b></summary>
@@ -71,7 +71,8 @@ In other words, a set of commands used by an individual program to communicate w
  <p align ="center"><img src="https://user-images.githubusercontent.com/82276807/120450508-2062be00-c3ae-11eb-9990-daf4e68c3c63.png"></p>   
   </details>
   
- 1- When I was sending data from post method via the curl command.the data was not being sent and the restlet operation failing at       that time.
+  1-When I was sending data from post method via the curl command.the data was not being sent and the restlet operation failing at         that time.
+   2- When we send multiple requests at the same time through curl command then we come to this issue.
  
 
   <details>
